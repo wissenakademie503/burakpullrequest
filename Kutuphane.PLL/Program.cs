@@ -19,6 +19,7 @@ namespace Kutuphane.PLL
             Application.Run(new frmKITAP());
             //fix some bugs
            //fix pull requestproblem
+           //dilara mavi
 
         }
     }
