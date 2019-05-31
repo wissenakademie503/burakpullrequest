@@ -21,6 +21,7 @@ namespace Kutuphane.PLL
 
         private void frmKITAP_Load(object sender, EventArgs e)
         {
+            //formload
             kitapListele();
             kategoriListele();
         }
