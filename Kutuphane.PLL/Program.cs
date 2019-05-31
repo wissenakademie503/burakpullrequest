@@ -18,7 +18,7 @@ namespace Kutuphane.PLL
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmKITAP());
             //fix some bugs
-          //fix pull requestproblem
+           //fix pull requestproblem
 
         }
     }
