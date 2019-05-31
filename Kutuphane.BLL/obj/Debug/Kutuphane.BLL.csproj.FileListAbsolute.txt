@@ -1,0 +1,11 @@
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.BLL.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.BLL.pdb
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.FacadeLayer.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\bin\Debug\Kutuphane.FacadeLayer.pdb
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.csproj.CopyComplete
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.BLL\obj\Debug\Kutuphane.BLL.pdb

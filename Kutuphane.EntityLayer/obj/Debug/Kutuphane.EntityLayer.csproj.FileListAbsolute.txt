@@ -1,0 +1,12 @@
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\Desktop\Kutuphane\Kutuphane.EntityLayer\obj\Debug\Kutuphane.EntityLayer.pdb
